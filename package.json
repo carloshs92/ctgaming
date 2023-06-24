@@ -1,0 +1,27 @@
+{
+  "name": "react-entry-level-task-2023",
+  "version": "1.0.0",
+  "description": "sample entry level task for react developers",
+  "scripts": {
+    "build": "next build",
+    "export": "next build && next export",
+    "start": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/palms_public/react-entry-level-task-2023.git"
+  },
+  "author": "oleg sledov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/palms_public/react-entry-level-task-2023/issues"
+  },
+  "homepage": "https://gitlab.com/palms_public/react-entry-level-task-2023#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.5",
+    "next": "^13.4.7",
+    "react": "^18.2.0"
+  }
+}
